@@ -1,0 +1,26 @@
+.maincontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h2{
+    color: rgb(255,165,0);
+    
+}
+#buttonContainer{
+  
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   
+}
+button{
+    background-color:rgb(255,165,0) ;
+    
+}
+#graphTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
